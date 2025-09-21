@@ -102,12 +102,4 @@ Try asking:
 * "What are the top 3 areas you'd like to grow in?"
 * "What misconception do your coworkers have about you?"
 * "How do you push your boundaries and limits?"
-
-## Deployment
-
-For universal access, deploy on **Streamlit Community Cloud** (free).
-
-1. Push your repo to GitHub
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Connect GitHub → Select repo → Deploy
-4. Share the public URL in your submission
+* 
