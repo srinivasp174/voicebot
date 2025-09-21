@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="apikey here")
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def call_llm(question, persona='friendly, confident job candidate'):
     completion = client.chat.completions.create(
